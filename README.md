@@ -35,7 +35,7 @@ The goal of this project was to review my AWS cloud environment, identify securi
 
 ## AWS Config Dashboard
 
-![AWS Config Dashboard](aws-config-dashboard.png)
+![AWS Config Dashboard](screenshots/aws-config-dashboard.png)
 
 AWS Config was enabled to continuously record supported AWS resources and monitor configuration changes across the AWS environment. This provides visibility into resource configurations and supports compliance monitoring.
 
@@ -43,7 +43,7 @@ AWS Config was enabled to continuously record supported AWS resources and monito
 
 ## AWS CloudTrail
 
-![AWS CloudTrail](cloudtrail-trail.png)
+![AWS CloudTrail](screenshots/cloudtrail-trail.png)
 
 AWS CloudTrail was configured with a multi-region trail to capture management events across the AWS account. CloudTrail provides an audit log of API activity that supports investigations, security monitoring, and compliance.
 
@@ -51,7 +51,7 @@ AWS CloudTrail was configured with a multi-region trail to capture management ev
 
 ## Amazon CloudWatch Alarm
 
-![CloudWatch Alarm](cloudwatch-alarm.png)
+![Amazon CloudWatch Alarm](screenshots/cloudwatch-alarm.png)
 
 Amazon CloudWatch was configured with a custom alarm to monitor AWS resource metrics. The alarm demonstrates proactive monitoring by tracking resource activity and notifying administrators when predefined thresholds are exceeded.
 
