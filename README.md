@@ -21,7 +21,11 @@ The goal of this project was to review my cloud environment, identify security s
 - AWS CloudTrail
 - IAM Access Analyzer
 - GitHub
+## Screenshots
 
+### AWS Config Dashboard
+
+![AWS Config Dashboard](1d12aefc-1b9f-425a-9f35-4f9d8927c849.png)
 ## Assessment Scope
 
 The following areas were reviewed:
